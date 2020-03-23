@@ -14,13 +14,16 @@ bundle install
 
 
 ### Chapter 1
-__Q1:__ Write a program that `puts`s an integer (e.g. `160`).
+__Q1:__ Write a program that `puts`s an integer.
 
 ### Chapter 2
 __Q1:__ Write a program that uses constants, to define the numbers 1 to 10 as numerals.
 __Q2:__ Write a program that multiplies `TWELVE` by `FOURTEEN` by `SIXTEEN` and `puts`s the result.
 
 ### Chapter 3
+__Q1:__ Fill in the blanks so that the arithmetic operations produce the correct value for each variable.
+
+### Chapter 4
 ---
 
 ## How to Run
