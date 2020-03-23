@@ -14,20 +14,23 @@ bundle install
 
 
 ### Chapter 1
-__Q1:__ Write a program that `puts`s an integer.
+__Q1:__ Write a program that `puts` an integer.
 
 ### Chapter 2
 __Q1:__ Write a program that uses constants, to define the numbers 1 to 10 as numerals.
-__Q2:__ Write a program that multiplies `TWELVE` by `FOURTEEN` by `SIXTEEN` and `puts`s the result.
+__Q2:__ Write a program that multiplies `TWELVE` by `FOURTEEN` by `SIXTEEN` and `puts` the result.
 
 ### Chapter 3
 __Q1:__ Fill in the blanks so that the arithmetic operations produce the correct value for each variable.
 
 ### Chapter 4
-__Q1:__ Write a program that calculates the "FizzBuzz sequence" from 1 to 20 (inclusive). `puts`s these "FizzBuzz sequence" entries one per line.
-__Q2:__ Write a program that adds together all the integers from `1` to `250` (inclusive) and `puts`s the total.
-__Q3:__ Write a program that calculates the first 20 Fibonacci numbers. `puts`s these numbers, one per line.
+__Q1:__ Write a program that calculates the "FizzBuzz sequence" from 1 to 20 (inclusive). `puts` these "FizzBuzz sequence" entries one per line.
+__Q2:__ Write a program that adds together all the integers from `1` to `250` (inclusive) and `puts` the total.
+__Q3:__ Write a program that calculates the first 20 Fibonacci numbers. `puts` these numbers, one per line.
 
+### Chapter 5
+__Q1:__ Write a program that acts like a magic 8 ball. It should randomly choose one of five predictions:
+ `It is certain`, `It is decidedly so`, `Ask again later`, `Outlook not so good`, `Very doubtful`. `puts` the prediction it chose.
 ---
 
 ## How to Run
