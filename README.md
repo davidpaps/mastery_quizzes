@@ -1,6 +1,6 @@
 # Mastery Quizzes
 
-Part 2&3/4 of the Makers Precourse. This involves 10 questions of different concept dound in Object Orientated Programming - using Ruby!
+Part 2&3/4 of the Makers Precourse. This involves 10 questions of different concepts found in Object Orientated Programming - using Ruby!
 
 ---
 
@@ -14,7 +14,9 @@ bundle install
 
 
 ### Chapter 1
+Write a program that `puts`s an integer (e.g. `160`).
 
+### Chapter 2
 ---
 
 ## How to Run
