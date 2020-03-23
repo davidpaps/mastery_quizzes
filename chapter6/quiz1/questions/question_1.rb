@@ -4,9 +4,7 @@ number = ""
 while number != "stop"
   puts "Give me a number"
   number = gets.chomp
-  if number != "stop"
-    array << number.to_i
-  end
+  array << number.to_i if number != "stop"
 end
 
 puts array.reduce(:+)

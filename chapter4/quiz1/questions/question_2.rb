@@ -1,7 +1,2 @@
-sum = 0
-
-for num in 1..250
-  sum += num
-end
-
-puts sum
+total = (1..250).reduce(:+)
+puts total

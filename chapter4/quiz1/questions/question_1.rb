@@ -6,6 +6,6 @@ for num in 1..20
   elsif num % 5 == 0
     puts "Buzz"
   else
-    puts "#{num}"
+    puts num
   end
 end

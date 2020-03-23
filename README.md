@@ -40,6 +40,12 @@ bundle install
 `look`: `puts` `You are in a warm and cosy study. You see a safe. You see a desk.` `look at desk`: `puts` `You see a piece of paper that reads,The combination is 2451.``south`: Move to the hall. `enter combination 2451`: `puts` `You see some diamonds in the safe, pick them up and make your escape` and the program stops executing.
 
  ### Chapter 7
+ - __Q1:__ 
+ - __Q2:__
+ - __Q3:__
+
+ ### Chapter 8
+ 
 ---
 
 ## How to Run

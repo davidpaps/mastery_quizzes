@@ -1,14 +1,8 @@
-number = rand(5)
+a = "It is certain"
+b = "It is decidedly so"
+c = "Ask again later"
+d = "Outlook not so good"
+e = "Very doubtful"
 
-case number
-when 0
-  puts "It is certain"
-when 1
-  puts "It is decidedly so"
-when 2
-  puts "Ask again later"
-when 3
-  puts "Outlook not so good"
-else
-  puts "Very doubtful"
-end
+array = [a, b, c, d, e]
+puts array.sample
