@@ -24,6 +24,10 @@ __Q2:__ Write a program that multiplies `TWELVE` by `FOURTEEN` by `SIXTEEN` and 
 __Q1:__ Fill in the blanks so that the arithmetic operations produce the correct value for each variable.
 
 ### Chapter 4
+__Q1:__ Write a program that calculates the "FizzBuzz sequence" from 1 to 20 (inclusive). `puts`s these "FizzBuzz sequence" entries one per line.
+__Q2:__ Write a program that adds together all the integers from `1` to `250` (inclusive) and `puts`s the total.
+__Q3:__ Write a program that calculates the first 20 Fibonacci numbers. `puts`s these numbers, one per line.
+
 ---
 
 ## How to Run
