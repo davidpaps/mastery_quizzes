@@ -50,6 +50,10 @@ bundle install
 - __Q3:__ Write a program that groups people based on their favourite things. In should: Ask the user to input a category. Put the `people` into groups where each group has people who share the same favourite thing. Print out the names of the people in each group. Before each group, it should say which favourite thing the people in the group share.
 
 ### Chapter 9
+- __Q1:__ # Write a program that lets a user player a solo game of Blackjack. The program should: Ask the player if they want to `hit` or `stick`. If the player hits, add a card to their hand. If the player sticks, end the game. Keep asking the player if they want to "hit" or "stick" until they say "stick". Each time the player hits, calculate the score for the player's hand and `puts` `Score so far: ` and the score. A score is calculated by adding up the values of each of the cards in the player's hand. Value for each card are self titled, apart from: `jack: 10`, `queen: 10`, `king: 10`, `ace: 11`. When the game is over, `puts` the outcome of the game. If the player's score is `<= 21`, `puts` `You scored: ` and the final score. If the player's score is `> 21`, `puts` `You busted with: ` and the final score. As part of your solution, there should be four specific methods: `random_card`: This has already been written for you.  You don't need to change it. `move`: Asks the player for a move.  If they enter `hit` or `stick`, it returns the move.  If they enter something else, it keeps asking them until they enter `hit` or `stick`. `score`: Takes an array of cards and returns the score for the hand as an integer.`run_game`: uses the other methods to run a game of Blackjack.
+
+### Chapter 10
+- __Q1:__ 
 
 ---
 
